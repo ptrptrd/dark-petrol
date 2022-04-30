@@ -5,7 +5,7 @@ Collection of colors matching the dark petrol as background
 
 | Name     | Hex       |  |
 | -------- | --------- | -------- |
-| Dark Petrol | `#18211C` | ![#18211C](https://via.placeholder.com/15/18211C/000000?text=+)|
+| Dark Petrol | `#18211F` | ![#18211F](https://via.placeholder.com/15/18211F/000000?text=+)|
 | Grey        | `#C5C8C6` | ![#C5C8C6](https://via.placeholder.com/15/C5C8C6/000000?text=+)|
 | Petrol        | `#2B3E3B` | ![#2B3E3B](https://via.placeholder.com/15/2B3E3B/000000?text=+)|
 | Light Petrol   | `#536F6B` | ![#536F6B](https://via.placeholder.com/15/536F6B/000000?text=+)|
